@@ -15,7 +15,23 @@
     height="120"
   />
 </a>
-  
+
+
+  <!-- 기술 스택 -->
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white" alt="UIKit"/>
+  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+</p>
+
+
+<!-- 연락 정보 -->
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
+   <a href="mailto:gyeomsony@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 <!--
 **gyeomsony/gyeomsony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
