@@ -1,4 +1,12 @@
-## Hi there 👋 
+<p align="center">
+</p>
+
+<h2 align="center">Hi there! I'm an iOS Developer 👋</h2>
+<p align="center">
+  I'm passionate about building apps with Swift and exploring the latest iOS technologies. <br/>
+  Currently, I'm diving deep into UIKit and SwiftUI to craft seamless mobile experiences!
+  <br/> Keep an eye out for my adventures !!
+</p>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
