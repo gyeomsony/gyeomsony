@@ -8,13 +8,15 @@
   <br/> Keep an eye out for my adventures !!
 </p>
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/gyeomsony"
-  width="1000"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/gyeomsony?pet-id=644076994008452080"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 
   <!-- 기술 스택 -->
