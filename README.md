@@ -9,13 +9,24 @@
 </p>
 
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals" style="text-decoration: none; line-height: 0;">
   <img
-    src="https://render.gitanimals.org/lines/gyeomsony?pet-id=644076994008452080"
-    width="600"
-    height="120"
+    src="https://render.gitanimals.org/lines/gyeomsony?pet-id=644076994008452080&contribution-view=false"
+    width="400"
+    height="200"
   />
 </a>
+
+<a href="https://github.com/devxb/gitanimals" style="text-decoration: none; line-height: 0;">
+  <img
+    src="https://render.gitanimals.org/lines/gyeomsony?pet-id=644090969282578160&contribution-view=false"
+    width="400"
+    height="200"
+  />
+</a>
+
+
+
   
 
 
